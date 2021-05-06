@@ -31,7 +31,7 @@
     "chartjs-plugin-annotation": "^0.5.7",
     "cors": "^2.8.5",
     "gridfs-stream": "^1.1.1",
-    "highcharts": "^8.0.1",
+    "highcharts": "^9.0.0",
     "highcharts-angular": "^2.4.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.8.10",
