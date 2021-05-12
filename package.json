@@ -26,7 +26,7 @@
     "angular-material": "^1.1.21",
     "arraylist": "^0.1.0",
     "bcrypt": "^4.0.1",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "chartjs-funnel": "^1.0.5",
     "chartjs-plugin-annotation": "^0.5.7",
     "cors": "^2.8.5",
